@@ -4,4 +4,9 @@
     "Source": "https://github.com/notif4ir/vm_mods/raw/refs/heads/main/COOPMod.zip",
     "Description": "Allows you to play story mode with friends on an private server."
   }
+  "menyoo_v1": {
+    "Name": "Menyoo",
+    "Source": "https://github.com/notif4ir/vm_mods/raw/refs/heads/main/Menyoo.zip",
+    "Description": "Best mod-menu for GTA story mode."
+  }
 }
