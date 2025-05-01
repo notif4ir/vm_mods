@@ -1,1 +1,7 @@
-
+{
+  "coop_v1": {
+    "Name": "CO-OP Multiplayer",
+    "Source": "https://example.com/download",
+    "Description": "Allows you to play story mode with friends on an private server."
+  },
+}
