@@ -9,4 +9,9 @@
     "Source": "https://github.com/notif4ir/vm_mods/raw/refs/heads/main/Menyoo.zip",
     "Description": "Best mod-menu for GTA story mode."
   }
+  "instructiontest": {
+    "Name": "InstructionTest",
+    "Source": "https://github.com/notif4ir/vm_mods/raw/refs/heads/main/testmneyoothing.zip",
+    "Description": "tests the instruction commands."
+  }
 }
